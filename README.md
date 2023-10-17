@@ -1,5 +1,13 @@
 # Django-Bank-System
 
+## Tasks
+1. Desgn The Database
+2. logic of Accounts
+3. views of Accounts, jwt, ...
+4. tests of Accounts
+5. ...
+
+## Features
 1. User Registration and Authentication:
    - User signup with account creation
    - User login and logout
